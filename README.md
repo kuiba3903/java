@@ -1,2 +1,2 @@
 # java
-for more information, visit 
+for more information, visit http://fengxaio.ltd/view/32/
