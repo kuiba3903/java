@@ -1,4 +1,4 @@
-package com.company;
+package com.company.多线程;
 
 public class ThreadJoinDemo {
     public static void main(String[] args) {

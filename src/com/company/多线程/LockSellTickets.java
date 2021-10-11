@@ -1,4 +1,4 @@
-package com.company;
+package com.company.多线程;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;

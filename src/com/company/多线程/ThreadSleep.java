@@ -1,4 +1,4 @@
-package com.company;
+package com.company.多线程;
 
 public class ThreadSleep extends Thread {
     public ThreadSleep() {

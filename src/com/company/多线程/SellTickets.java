@@ -1,4 +1,4 @@
-package com.company;
+package com.company.多线程;
 
 public class SellTickets implements Runnable {
     private static int tickets = 100;

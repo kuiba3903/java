@@ -1,4 +1,4 @@
-package com.company;
+package com.company.多线程;
 // 实现多线程的方式2：
 //        1.定义一个MyRunable类实现Runable接口
 //        2.在MyRunable类中重写run()方法
